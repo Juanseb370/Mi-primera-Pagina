@@ -1,5 +1,3 @@
-# Mi-primera-Pagina
-taller nivelacion web
 # Mi Primera Página
 Taller de nivelación web
 
