@@ -1,0 +1,24 @@
+body {
+    background-color: #f4f1ea; /* Color de fondo suave */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Cambio de fuente */
+    text-align: center; /* Centra todo el contenido de la página */
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+p {
+    font-size: 18px; /* Tamaño de letra más grande */
+    color: #555555;
+}
+
+button {
+    background-color: #e74c3c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
