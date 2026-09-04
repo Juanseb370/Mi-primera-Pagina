@@ -1,7 +1,7 @@
 body {
-    background-color: #f4f1ea; /* Color de fondo suave */
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Cambio de fuente */
-    text-align: center; /* Centra todo el contenido de la página */
+    background-color: #f4f1ea; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    text-align: center; 
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-    font-size: 18px; /* Tamaño de letra más grande */
+    font-size: 18px;
     color: #555555;
 }
 
